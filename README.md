@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on data pipelines<br>🌱 I’m currently learning DDD with the hexagonal architecture<br>💬 Ask me about computer science outreach to marginalized communities
+🔭 I’m currently working on all things data<br>🌱 I’m currently learning DDD with the hexagonal architecture<br>💬 Ask me about computer science outreach to marginalized communities
 
 
 # 💻 Tech Stack:
